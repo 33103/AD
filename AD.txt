@@ -1,6 +1,6 @@
-!Title: anti-AD
+!Title: 33103-AD
 !Version: 202103062230
 !Homepage: https://raw.githubusercontent.com/33103/AD/main/AD.txt
-!Total lines: 36452
+!Total lines: 1
 ||bangmangma.com^
 
