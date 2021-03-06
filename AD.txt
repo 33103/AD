@@ -3,4 +3,10 @@
 !Homepage: https://raw.githubusercontent.com/33103/AD/main/AD.txt
 !Total lines: 1
 ||bangmangma.com^
+||tz301.xyz^
+||bocaitiyu.com^
+||dfpiaoliu.com^
+||amarktflow.com^
+||zol.com.cn^
+||systemcity.cn^
 
