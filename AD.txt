@@ -1,4 +1,6 @@
-### 垃圾SEO站
+!Title: anti-AD
+!Version: 202103062230
+!Homepage: https://raw.githubusercontent.com/33103/AD/main/AD.txt
+!Total lines: 36452
 ||bangmangma.com^
-127.0.0.1 bangmangma.com
-127.0.0.1 www.bangmangma.com
+
