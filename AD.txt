@@ -10,4 +10,7 @@
 ||zol.com.cn^
 ||systemcity.cn^
 ||m3uu.com^
+||tnext.org^
+
+
 
